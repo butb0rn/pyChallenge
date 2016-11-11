@@ -1,3 +1,6 @@
+"""
+Simple python game! User have three strikes to guess one of the word in words list.
+"""
 import random
 
 def get_random_word():
